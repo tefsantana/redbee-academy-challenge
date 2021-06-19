@@ -1,5 +1,16 @@
 # Challenge Redbee Academy
 
+### My opinion and results
+
+I tried the Redbee Academy's Java Challenge. I'm not really used to Java, but I think I did a good job!
+I could pass all the tests except one in `CompareArrayNumbers.java`.
+
+Thanks to Redbee Academy for providing us with a really interesting challenge, I had fun doing it and it helped me a lot to reinforce my skills.
+
+___________________________________________________________________________
+
+# Original Description
+
 ### About this
 This repository aims to identify how much you know about programming.
 
